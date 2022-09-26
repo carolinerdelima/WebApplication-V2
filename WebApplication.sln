@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication", "WebApplication\WebApplication.csproj", "{B47109D6-7E23-4A64-8EC9-4757C1DECB25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negócio", "Negócio\Negócio.csproj", "{BE476DCC-ABC1-49B5-9E36-AB941878EC59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Negocio", "Negócio\Negocio.csproj", "{BE476DCC-ABC1-49B5-9E36-AB941878EC59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistência", "Persistência\Persistência.csproj", "{8EC693AA-C095-4DCF-B52D-6C66A05287DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistencia", "Persistência\Persistencia.csproj", "{8EC693AA-C095-4DCF-B52D-6C66A05287DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

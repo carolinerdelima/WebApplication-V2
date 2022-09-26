@@ -1,4 +1,4 @@
-using Persistência.Repositório;
+using Persistencia.Repositorio;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;

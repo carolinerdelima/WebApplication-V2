@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Persistência.Entidade
+namespace Persistencia.Entidade
 {
     public class Course
     {

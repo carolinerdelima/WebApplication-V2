@@ -1,4 +1,4 @@
-using Persistência.Repositório;
+using Persistencia.Repositorio;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;

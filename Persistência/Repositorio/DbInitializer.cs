@@ -1,8 +1,8 @@
-﻿using Persistência.Entidade;
+﻿using Persistencia.Entidade;
 using System;
 using System.Linq;
 
-namespace Persistência.Repositório
+namespace Persistencia.Repositorio
 {
     public static class DbInitializer
     {

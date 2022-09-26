@@ -1,4 +1,4 @@
-﻿namespace Persistência.Entidade
+﻿namespace Persistencia.Entidade
 {
     public enum Grade
     {

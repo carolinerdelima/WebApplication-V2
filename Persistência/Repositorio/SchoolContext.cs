@@ -1,7 +1,7 @@
-﻿using Persistência.Entidade;
+﻿using Persistencia.Entidade;
 using Microsoft.EntityFrameworkCore;
 
-namespace Persistência.Repositório
+namespace Persistencia.Repositorio
 {
     public class SchoolContext : DbContext
     {

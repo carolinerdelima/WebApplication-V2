@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Persistência.Entidade
+namespace Persistencia.Entidade
 {
     public class Student
     {
